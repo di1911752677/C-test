@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//123
 #define N 10
 
 //交换
